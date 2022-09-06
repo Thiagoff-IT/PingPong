@@ -47,7 +47,7 @@ ED(Estrutuda de Dados) havera alguns requisitos a serem compridos:
 ## Requisitos de LPOO:
 - [ ] Usar classes
 
-
+---
      Ex: 
      class Pessoa():
 		# Atributos e métodos da classe
